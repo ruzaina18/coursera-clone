@@ -1,5 +1,5 @@
-import Fotter from "@/Components/Fotter";
-import Navbar from "@/Components/Navbar";
+import Fotter from "@/components/Fotter";
+import Navbar from "@/components/Navbar";
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import { useEffect } from "react";

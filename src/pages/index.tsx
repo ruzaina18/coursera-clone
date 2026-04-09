@@ -11,7 +11,7 @@ import {
   Search,
 } from "lucide-react";
 import Link from "next/link";
-import { courses } from "@/Components/data/constant";
+import { courses } from "@/components/data/constant";
 import {
   getOfflineCourseIds,
   getOfflineUpdateEventName,

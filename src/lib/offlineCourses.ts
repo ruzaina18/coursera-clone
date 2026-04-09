@@ -1,4 +1,4 @@
-import type { Course } from "@/Components/data/constant";
+import type { Course } from "@/components/data/constant";
 
 const OFFLINE_COURSES_KEY = "offline-courses-v1";
 const OFFLINE_UPDATE_EVENT = "offline-courses-updated";

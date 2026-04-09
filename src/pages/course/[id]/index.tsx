@@ -25,8 +25,8 @@ import {
   Bell,
 } from "lucide-react";
 import { useRouter } from "next/router";
-import { Course, courses } from "@/Components/data/constant";
-import Videolayer from "@/Components/Videolayer";
+import { Course, courses } from "@/components/data/constant";
+import Videolayer from "@/components/Videolayer";
 import {
   getOfflineCourseEntry,
   getOfflineImageObjectUrl,
